@@ -19,3 +19,21 @@ In this section, transfer learning is applied onto a natural language processing
 
  In this section, zeroshot transfer learning is applied onto a CV classification task with the CLIP model.
 
+# References
+
+[Supervised Contrastive Learning, Google Slides](https://docs.google.com/presentation/d/1UxtHDwjViC7VpSb0zB-kajGQ-TwznQmc-7LsbHRfO3s/edit#slide=id.gcdc5f16e5b_20_5)
+
+[Supervised Contrastive Learning, Towards Data Science Blog](https://towardsdatascience.com/contrastive-loss-for-supervised-classification-224ae35692e7)
+
+[Supervised Contrastive Learning, Keras Documentation](https://keras.io/examples/vision/supervised-contrastive-learning/)
+
+[Transfer Learning in NLP, Tensorflow Documentation](https://www.tensorflow.org/hub/tutorials/tf2_text_classification)
+
+[Transfer Learning in NLP on Tensorflow, Amitness Blog](https://amitness.com/2020/02/tensorflow-hub-for-transfer-learning/)
+
+[Zeroshot Transfer Learning on CV, Towards Data Science Blog](https://towardsdatascience.com/how-to-try-clip-openais-zero-shot-image-classifier-439d75a34d6b)
+
+[Keras Example Datasets](https://keras.io/examples/vision/bit/)
+
+[Zeroshot Transfer Learning, Tensorflow Documentation](https://www.tensorflow.org/tutorials/images/transfer_learning_with_hub)
+
