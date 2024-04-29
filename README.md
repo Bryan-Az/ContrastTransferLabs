@@ -31,9 +31,9 @@ In this section, transfer learning is applied onto a natural language processing
 
 [Transfer Learning in NLP on Tensorflow, Amitness Blog](https://amitness.com/2020/02/tensorflow-hub-for-transfer-learning/)
 
-[Zeroshot Transfer Learning on CV, Towards Data Science Blog](https://towardsdatascience.com/how-to-try-clip-openais-zero-shot-image-classifier-439d75a34d6b)
+[Transfer Learning with BiT, Keras Documentation](https://keras.io/examples/vision/bit/)
 
-[Keras Example Datasets](https://keras.io/examples/vision/bit/)
+[Zeroshot Transfer Learning on CV, Towards Data Science Blog](https://towardsdatascience.com/how-to-try-clip-openais-zero-shot-image-classifier-439d75a34d6b)
 
 [Zeroshot Transfer Learning, Tensorflow Documentation](https://www.tensorflow.org/tutorials/images/transfer_learning_with_hub)
 
