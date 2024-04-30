@@ -1,5 +1,5 @@
 # ContrastTransferLabs
-In this repo, I demonstrate supervised contrastive learning, transfer learning, and zero-shot transfer learning with the CLIP (Contrastive Language & Image Pre-training) model, commonly used to perform text-to-image generation, using image multi-class classification models for Computer Vision (CV).
+In this repo, I demonstrate supervised contrastive learning, transfer learning, and zero-shot transfer learning with the CLIP (Contrastive Language & Image Pre-training) model, commonly used to perform text-to-image generation as unCLIP, using image multi-class classification models for Computer Vision (CV).
 
 ## Part 1: Supervised Contrastive Learning
 Supervised Learning is a machine learning tenet that uses labeled data (x->y) to train a model to make inferences. Contrastive Learning on the other hand, can utilize both labeled and non-labeled data. However, incorporating labels into the data while applying contrastive learning can enhance the models' performance.
